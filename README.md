@@ -1,2 +1,5 @@
-# ministry_of_miscellany
-Static site generator files 
+# Chemistry for Beginners
+
+static site configuration and content files
+
+
